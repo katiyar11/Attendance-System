@@ -1,4 +1,4 @@
-# Attendance-System# Attendance-Syatem-
+# Attendance-System
 
 ## ComputerVision-Projects with Django
 
